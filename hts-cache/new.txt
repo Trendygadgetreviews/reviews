@@ -1,0 +1,3 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+08:58:50	76/76	---MCZ	200	added ('OK')	text/plain	etag:W/%2272-59a5bc6f8680b%22	https://dronexpro.trendygadgetreviews.com/robots.txt		(from )
+08:58:50	16772/16772	---MCZ	200	added ('OK')	text/html	date:Mon,%2023%20Dec%202019%2009:37:35%20GMT	https://dronexpro.trendygadgetreviews.com/	C:/My%20Web%20Sites/drone/dronexpro.trendygadgetreviews.com/index.html	(from )
